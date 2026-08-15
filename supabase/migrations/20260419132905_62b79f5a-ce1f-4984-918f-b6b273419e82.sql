@@ -1,0 +1,1 @@
+ALTER TABLE public.recuperacao_clientes ADD COLUMN IF NOT EXISTS regras text;
